@@ -1,1 +1,2 @@
-# projeto_banco_template_arquivo
+# projeto banco template arquivo
+Responder a atividade em sala de aula.
